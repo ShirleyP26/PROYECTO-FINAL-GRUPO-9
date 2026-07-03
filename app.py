@@ -1,8 +1,3 @@
-# ==============================================================================
-# PROYECTO DE INVESTIGACIÓN FORMATIVA - PROGRAMACIÓN | UNACH 2026
-# Sistema de Control de Gastos Personales utilizando Vectores y Matrices
-# Integrantes: Gonzales Diego, Picausi Shirley, Pérez Mateo, Poaquiza Analy, Valverde Ashley
-# ==============================================================================
 
 import streamlit as st
 import matplotlib.pyplot as plt
